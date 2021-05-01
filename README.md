@@ -1,7 +1,4 @@
-#### This is a neural network framwork for deep learning written in C.
-
-[Darknet](https://pjreddie.com/darknet/) is a powerful neural network framework, You can even train a Go game.
-I reimplement a tiny neural network(CNN, RNN) framework from scratch.
+I reimplement a tiny neural network(CNN, RNN) framework based on DarkNet and Caffe. Here are the introduction of compile it and its applications
 
 #### Compile
 ```
