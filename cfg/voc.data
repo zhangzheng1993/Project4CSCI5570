@@ -1,0 +1,4 @@
+train  = /var/darknet/FDDB_reorder/train.txt
+valid  = /var/darknet/FDDB_reorder/test.txt
+names = /var/darknet/FDDB_reorder/face.names
+backup = backup
